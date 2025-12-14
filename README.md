@@ -4,7 +4,7 @@ A modern, interactive web application that combines real-time audio visualizatio
 
 ---
 ## 🌐 Live Demo  
-🔗 [https://ebook-chandani.netlify.app/](https://ebook-chandani.netlify.app/)
+🔗 [https://chandani-audio-equalizer.netlify.app/](https://chandani-audio-equalizer.netlify.app/)
 
 
 ## ✨ Features
@@ -80,14 +80,6 @@ src/
 └── index.css           # Tailwind CSS imports
 ```
 
-## 🎨 Customization
-
-The app uses Tailwind CSS for styling. Key customizable elements:
-
-- **Color Scheme**: Modify gradient colors in the component
-- **Visualizer Size**: Adjust canvas dimensions
-- **Speech Recognition**: Change language settings in the recognition setup
-- **Animation Speed**: Tweak animation timings and effects
 
 ## 📄 License
 
